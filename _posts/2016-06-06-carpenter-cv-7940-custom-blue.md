@@ -32,24 +32,19 @@ enablewpts:
   - "0"
 ---
 <a href="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-1.jpg"><img src="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-1-600x600.jpg" alt="Carpenter-CV7940-custom-1" /></a> <a href="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-2.jpg"><img src="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-2-600x600.jpg" alt="Carpenter-CV7940-custom-2" /></a> <a href="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-3.jpg"><img src="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-3-600x600.jpg" alt="Carpenter-CV7940-custom-3" /></a> <a href="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-4.jpg"><img src="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-4-600x600.jpg" alt="Carpenter-CV7940-custom-4" /></a> <a href="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-5.jpg"><img src="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-5-600x600.jpg" alt="Carpenter-CV7940-custom-5" /></a> <a href="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-6.jpg"><img src="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-6-600x600.jpg" alt="Carpenter-CV7940-custom-6" /></a> <a href="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-7.jpg"><img src="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-7-600x600.jpg" alt="Carpenter-CV7940-custom-7" /></a> <a href="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-8.jpg"><img src="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-8-600x600.jpg" alt="Carpenter-CV7940-custom-8" /></a> <a href="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-9.jpg"><img src="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-9-600x600.jpg" alt="Carpenter-CV7940-custom-9" /></a>??<a href="/wp-content/uploads/2016/06/CORAL-VIPER-CARPENTER.jpg"><img src="/wp-content/uploads/2016/06/CORAL-VIPER-CARPENTER-600x600.jpg" alt="CORAL VIPER - CARPENTER" /></a>
-
 <h3><strong>Ｃｏｒａｌ　Ｖｉｐｅｒ </strong>　７９／４０　ファイトに強いアドバンテージ</h3>
-
 [bing_translator]
 
 <img title="Carpenter CV 79/40 custom" src="/wp-content/uploads/2016/05/carpenter-cv-7940-custom.jpg" alt="Carpenter CV 79/40 custom" width="320" height="240" />
 
 トカラ列島で上がったＧＴ５７ｋｇ
 ＣＶ７９／４０　＋　パンドラ１５５ｇ　でキャッチ
-
 <h3>（コーラル　ヴァイパー ７９／４０）</h3>
-
 <ul>
-    <li>大型ＧＴとのファイトに於いて、強いアドバンテージを発揮</li>
-    <li>シーフロッグなどポッパーから　γ、ブルーフィッシュなどのスイムペンシルのアクションが自在に出来る。</li>
-    <li>誰もが扱いやすいオールラウンダーな特性</li>
+ 	<li>大型ＧＴとのファイトに於いて、強いアドバンテージを発揮</li>
+ 	<li>シーフロッグなどポッパーから　γ、ブルーフィッシュなどのスイムペンシルのアクションが自在に出来る。</li>
+ 	<li>誰もが扱いやすいオールラウンダーな特性</li>
 </ul>
-
 http://v.qq.com/page/u/e/t/u0163pz2het.html
 
 〈ＣＶ７９／４０　解説〉
@@ -80,11 +75,10 @@ http://v.qq.com/page/u/e/t/u0163pz2het.html
 
 お勧めモデルです。
 スペック
-
 <table border="1">
 <tbody>
 <tr>
-<th align="center" width="72">　Ｌｇｔｈ．</th>
+<th style="width: 0px; height: 0px;" align="center" width="72">　Ｌｇｔｈ．</th>
 <th align="center" width="64">繋数</th>
 <th align="center" width="89">仕舞寸法</th>
 <th align="center" width="83">適合ライン</th>
@@ -103,17 +97,15 @@ http://v.qq.com/page/u/e/t/u0163pz2het.html
 </tr>
 </tbody>
 </table>
-
 ※　ロッドの仕様　パーツは改良の為に予告無く変更する事がございます。ご了承下さい。
 ※　ロッドウエイトはプロトタイプ計測です。製品時は若干の誤差がございます。ご了承ください。
 ※　価格変更がある場合は、事前にＨＰでお知らせをさせて頂きます。
 
 使用パーツ構成　グリップ寸法
-
 <table border="1">
 <tbody>
 <tr>
-<th align="center">トップガイド</th>
+<th style="width: 0px; height: 0px;" align="center">トップガイド</th>
 <th align="center">中間ガイド</th>
 <th align="center">バットガイド</th>
 <th align="center">リールシート</th>
@@ -132,14 +124,12 @@ http://v.qq.com/page/u/e/t/u0163pz2het.html
 </tr>
 </tbody>
 </table>
-
 ※　ＤＬ　=　リールシート　ダウンロック
 ※　Ｒグリップ長は、ＥＶＡ＋エンドキャップの長さです。
-
-<table border="0">
+<table style="width: 100%;" border="0">
 <tbody>
 <tr>
-<td colspan="3" align="left" bgcolor="#000099" height="35">　メモリアルフィッシュ</td>
+<td style="width: 0px; height: 0px;" colspan="3" align="left" bgcolor="#000099" height="35">　メモリアルフィッシュ</td>
 </tr>
 <tr>
 <td align="center" valign="middle"><img title="Carpenter CV 79/40 custom" src="/wp-content/uploads/2016/05/carpenter-cv-7940-custom-1.jpg" alt="Carpenter CV 79/40 custom" width="220" height="165" /></td>
@@ -173,5 +163,4 @@ http://v.qq.com/page/u/e/t/u0163pz2het.html
 </tr>
 </tbody>
 </table>
-
 <img src="/wp-content/uploads/2016/06/Carpenter-CV7940-custom-11-600x600.jpg" alt="Carpenter-CV7940-custom-11" />
