@@ -28,6 +28,7 @@ enablewpts:
   - "1"
 ---
 <a href="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.1.jpg"><img src="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.1-600x600.jpg" alt="carpenter 2007 LIVEBAIT δ TYPE Ⅱ #5.1" /></a> <a href="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.2.jpg"><img src="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.2-600x600.jpg" alt="carpenter 2007 LIVEBAIT δ TYPE Ⅱ #5.2" /></a> <a href="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.3.jpg"><img src="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.3-600x600.jpg" alt="carpenter 2007 LIVEBAIT δ TYPE Ⅱ #5.3" /></a> <a href="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.4.jpg"><img src="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.4-600x600.jpg" alt="carpenter 2007 LIVEBAIT δ TYPE Ⅱ #5.4" /></a> <a href="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.5.jpg"><img src="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.5-600x600.jpg" alt="carpenter 2007 LIVEBAIT δ TYPE Ⅱ #5.5" /></a> <a href="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.6.jpg"><img src="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.6-600x600.jpg" alt="carpenter 2007 LIVEBAIT δ TYPE Ⅱ #5.6" /></a> <a href="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.7.jpg"><img src="/wp-content/uploads/2016/06/carpenter-2007-LIVEBAIT-δ-TYPE-Ⅱ-5.7-600x600.jpg" alt="carpenter 2007 LIVEBAIT δ TYPE Ⅱ #5.7" /></a> <a href="/wp-content/uploads/2016/06/LIVE-BAIT-δ-CARPENTER.jpg"><img src="/wp-content/uploads/2016/06/LIVE-BAIT-δ-CARPENTER-600x600.jpg" alt="LIVE BAIT δ - CARPENTER" /></a>
+
 <table width="100%">
 <tbody>
 <tr>
@@ -37,11 +38,13 @@ enablewpts:
 </tr>
 </tbody>
 </table>
+
 [bing_translator]
 
 [caption id="attachment_5811" align="alignnone" width="320"]<a href="/wp-content/uploads/2016/06/carpenter-2007-lb-δ-type-Ⅱ-5.jpg"><img class="size-full wp-image-5811" title="Carpenter 2007 LB-δ TYPE Ⅱ #5" src="/wp-content/uploads/2016/06/carpenter-2007-lb-δ-type-Ⅱ-5.jpg" alt="Carpenter 2007 LB-δ TYPE Ⅱ #5" width="320" height="250" /></a> Carpenter 2007 LB-δ TYPE Ⅱ #5[/caption]
 
 ＬＢ　δ（デルタ）　はＴｙｐｅⅠ～Ⅴがございます。 これは比重（沈下速度）が違います。ＴｙｐｅⅠ～Ⅴの順に高比重になります。 ＬＢ　δは全てシンキングですが、Ｔｙｐｅの数字が大きくなれば速く沈みます。 ＴｙｐｅⅠ～Ⅴを水深や流速によって使い分けを行います。 使い方を簡単に要約すると、水深がとても浅い時は、ＴｙｐｅⅠがベストです。 流れが速い時は流速に合わせて、ＴｙｐｅⅢ　Ⅳ　Ⅴなどを使い分けます。 Ｔｙｐｅ別の使い分けは臨機応変に願います。
+
 <table border="0" width="100%">
 <tbody>
 <tr>
@@ -84,8 +87,11 @@ enablewpts:
 </tr>
 </tbody>
 </table>
+
 &nbsp;
+
 <h2><strong>Ｎｅｗ　ライブベイト　δ－ＡＤ</strong></h2>
+
 [bing_translator]
 
 <a href="/wp-content/uploads/2016/05/carpenter-2007-lb-δ-type-Ⅱ-5.jpg"><img class="alignnone size-full wp-image-1875" title="Carpenter 2007 LB-δ TYPE Ⅱ #5" src="/wp-content/uploads/2016/05/carpenter-2007-lb-δ-type-Ⅱ-5.jpg" alt="Carpenter 2007 LB-δ TYPE Ⅱ #5" width="320" height="79" /></a>
@@ -97,6 +103,7 @@ enablewpts:
 <hr />
 
 ■全長　重量　比重■ ※全長は後部の金属部分を含めておりません。また、設計上は基本になっている数字がございますが 表示はきりが良い数字にしております。下記の表の数字はきりが良い数字です。 ※重量も同じく、設計上はきちんとした数字が基本にありますが、　フックは付けていない重量を基本に きりが良い数字にしております。下記の表の数字はきりが良い数字です。 ※同じ形状でＴｙｐｅによって重量が異なるルアーもございます。 ※比重の欄には、フローティング　／　シンキング　／　サスペンド　と表示がされています。 サスペンドの定義は、海水の比重（約１.０２４） に限りなく近い状態です。 『ルアーの状態は水中にルアーが浮くでもなく、沈むでもない状態』　の事です。 しかし、カーペンターではサスペンドの状態を次の通りとさせて頂きます。 ①浮力が極めて弱い状態（浮いているがほとんど浮力がない） ②とてもゆっくりと沈んでいく状態 ③水中に止まった状態 通常は③の状態をサスペンドと言います。しかし、ウッド製ルアーでサスペンド状態を作る事は 大変難しいです。カーペンターではで①　②　③の状態をサスペンドとさせて頂きます。 （水温で液体の比重が変化する為、樹脂製のルアーでも厳密なサスペンド状態を作り出す事は困難です）
+
 <table border="1">
 <tbody>
 <tr>
@@ -113,11 +120,13 @@ enablewpts:
 </tr>
 </tbody>
 </table>
+
 ※ＬＢ　δは、Ｔｙｐｅ別にⅠ～Ⅴがございます。Ｔｙｐｅ別の正確な重量は　こちら　をご覧下さい。
 
 <hr />
 
 ■適合フック　適合スプリットリング■ ※適合フック　適合スプリットリングは臨機応変に願います。下記が具体例 ①対象魚が大きい　→　針やリングを大きくする　　→　ルアーの動きは変わるが針やリングを伸ばされない。 ②ルアーに浮力を持たせたい　→　針やリングを小さくする　→　ルアーの浮力が確保出来る。ｅｔｃ． ※接続金具はルアーによって適さない物もございます。 接続金具　※　　○　=　可　｜　　△　=　やや可　｜　×　=　適さない
+
 <table style="width: 100%;" border="1">
 <tbody>
 <tr>
@@ -134,6 +143,7 @@ enablewpts:
 </tr>
 </tbody>
 </table>
+
 ※仕様は改良により予告無く変更
 
 <a href="/wp-content/uploads/2016/06/carpenter-LIFE-JACKET-CPLP-Ⅱ-blue.6.jpg"><img src="/wp-content/uploads/2016/06/carpenter-LIFE-JACKET-CPLP-Ⅱ-blue.6-600x600.jpg" alt="carpenter LIFE JACKET CPLP-Ⅱ ~blue.6" /></a>
