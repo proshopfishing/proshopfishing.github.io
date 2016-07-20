@@ -16,4 +16,4 @@ enclosure:
         video/mp4
         
 ---
-[videojs]http://m.gt.fish/video/carpenter/carpenter-blc-8340-test.mp4 [/videojs]
+[videojs]http://proshopfishing.oss-cn-hongkong.aliyuncs.com/video/carpenter/carpenter-blc-8340-test.mp4 [/videojs]
