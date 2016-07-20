@@ -16,4 +16,4 @@ enclosure:
         video/mp4
         
 ---
-[videojs]http://proshopfishing.oss-cn-hongkong.aliyuncs.com/video/carpenter/carpenter-blc-8340-test.mp4 [/videojs]
+<video controls="controls" width="700" height="150"> <source src="http://proshopfishing.oss-cn-hongkong.aliyuncs.com/video/carpenter/carpenter-blc-8340-test.mp4" type="video/mp4" /></video>
