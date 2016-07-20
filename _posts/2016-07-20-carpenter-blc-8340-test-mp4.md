@@ -11,7 +11,7 @@ published: true
 enclosure:
   - |
     |
-        http://m.gt.fish/video/carpenter/carpenter-blc-8340-test.mp4
+        http://proshopfishing.oss-cn-hongkong.aliyuncs.com/video/carpenter/carpenter-blc-8340-test.mp4
         56326057
         video/mp4
         
