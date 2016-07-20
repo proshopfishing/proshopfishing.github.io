@@ -1,0 +1,19 @@
+---
+ID: 11067
+post_title: carpenter-blc-8340-test.mp4
+author: Davidchau
+post_date: 2016-07-20 12:05:29
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.proshopfishing.com/carpenter-blc-8340-test-mp4.html
+published: true
+enclosure:
+  - |
+    |
+        http://m.gt.fish/video/carpenter/carpenter-blc-8340-test.mp4
+        56326057
+        video/mp4
+        
+---
+[videojs]http://m.gt.fish/video/carpenter/carpenter-blc-8340-test.mp4 [/videojs]
